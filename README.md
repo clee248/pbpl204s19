@@ -3,7 +3,7 @@
 Instructor: Sergio Rey  
 Tuesdays: 5:40-8:30PM  
 CHASS INTS-N Room 1006  
-Office hours: Tues 4-5pm (Rivera 159),  Thurs 4-5pm (Zoom)
+Office hours (Tues 4-5pm, Virtual Thurs 4-5pm)  
 
 
 
@@ -123,14 +123,14 @@ Conduct](https://scipy2017.scipy.org/ehome/220975/493434/).
 |------|------|--------------------------------------------------|--------------|
 |    0 | 4/02 | [Introduction](#week0)                           |              |
 |    1 | 4/09 | [Regions: Concepts and Policies](#week1)         |              |
-|    2 | 4/16 | [Economic Base Theory and Models](#week2)        | 1 Out        |
-|    3 | 4/23 | [Diversification and Shift-Share](#week3)        |              |
-|    4 | 4/30 | [Input-Output Accounts and Theory](#week4)       | 1 Due, 2 Out |
-|    5 | 5/07 | [Regional Input-Output Analysis](#week5)         |              |
-|    6 | 5/14 | [Regional Demographic Data and Accounts](#week6) | 2 Due, 3 Out |
-|    7 | 5/21 | [Regional Demographic Forecasting](#week7)       |              |
-|    8 | 5/28 | [Jobs-Housing Balance](#week8)                   | 3 Due, 4 Out |
-|    9 | 6/04 | [Spatial Mismatch Analysis](#week9)              |              |
+|    2 | 4/16 | [Economic Base Theory and Models](#week2)        |              |
+|    3 | 4/23 | [Git and Github](#week3)                         | 1 Out        |
+|    4 | 4/30 | [Economic Base Exercise](#week4)                 |              |
+|    5 | 5/07 | [Diversification and Shift-Share](#week5)        | 2 Out        |
+|    6 | 5/14 | [Input-Output Accounts and Theory](#week6)       | 1 Due,       |
+|    7 | 5/21 | [Regional Input-Output Analysis](#week7)         | 2 Due, 3 Out |
+|    8 | 5/28 | [Regional Demographic Data and Accounts](#week8) |              |
+|    9 | 6/04 | [Regional Demographic Forecasting](#week9)       | 3 Due, 4 Out |
 |   10 | 6/11 | Final Exam Week                                  | 4 Due        |
 
 
@@ -174,4 +174,71 @@ Week 1 April 9
 
 - [GithHub 101](https://www.chronicle.com/blogs/profhacker/tag/github101)
 - [Git and Github](tools/github.md)
+
+
+
+### Week 2 April 16
+
+#### Readings/Resources
+- [Schaffer, W.A. Economic Base Theory](http://www.rri.wvu.edu/WebBook/Schaffer/Chapter%203%20S11%20for%20WVA.pdf)
+
+
+#### Collaborative Discussion
+
+- Regional Accounts
+- Regional Data
+- Economic Base
+
+#### Tools and Analysis
+
+- Location Quotients
+- Economic Base Multipliers
+
+<h3 id="week3">
+Week 3 April 23
+</h3>
+
+### Readings/Resources
+
+- [Chacon, S. and B. Straub (2014) Pro Git](https://git-scm.com/book/en/v2). Chapters 1 and 2.
+- If you are using Windows, also read the [Git-bash Tutorial](https://www.atlassian.com/git/tutorials/git-bash)
+- If you are on a Mac, also read [Setting Up Github on your Mac](http://burnedpixel.com/blog/setting-up-git-and-github-on-your-mac/)
+
+### Tools and Analysis
+
+- [Getting Started with git and GitHub](https://github.com/sjsrey/pbpl204s19/blob/master/tools/github_tutorial.md)
+
+
+<h3 id="week4">
+Week 4 April 30
+</h3>
+
+### Readings/Resources
+
+- [Chacon, S. and B. Straub (2014) Pro Git](https://git-scm.com/book/en/v2). Chapters 1 and 2.
+- If you are using Windows, also read the [Git-bash Tutorial](https://www.atlassian.com/git/tutorials/git-bash)
+- If you are on a Mac, also read [Setting Up Github on your Mac](http://burnedpixel.com/blog/setting-up-git-and-github-on-your-mac/)
+
+### Tools and Analysis
+
+- [Getting Started with git and GitHub](https://github.com/sjsrey/pbpl204s19/blob/master/tools/github_tutorial.md)
+
+
+<h3 id="week5">
+Week 5 May 7
+</h3>
+
+#### Readings/Resources
+- [Dissart, J.C. (2003) "Regional economic diversity and regional economic stability: Research results and agenda."  International Regional Science Review 26, 4: 423-336.](https://journals.sagepub.com/doi/pdf/10.1177/0160017603259083)
+- [Jackson, R.W. (1984) "An evaluation of alternative measures of regional industrial diversification." Regional Studies 18: 103-12.](https://www.tandfonline.com/doi/pdf/10.1080/09595238400185101)
+- [Pallares, F.J. and R.V. Adkisson (2017) "The impact of industrial diversification on employment growth in the 50 U.S. States: 2000-2013." Economic Development Quarterly 31, 4: 275-284.](https://journals.sagepub.com/doi/full/10.1177/0891242417731599#articleCitationDownloadContainer)
+
+#### Collaborative Discussion
+
+- Regional Diversification, Stability, and Growth
+
+#### Tools and Analysis
+
+- Anaconda Python Distribution
+- Git: pull requests
 
